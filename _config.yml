@@ -88,3 +88,4 @@ deploy:
 theme_config:
   navbar_brand: Jose V Herrera
   favicon: /favicon.png
+  google_analytics: 'UA-77365099-1'
