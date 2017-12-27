@@ -1,5 +1,4 @@
 ---
-layout: post
 title: First Hexo Post!
 excerpt: First post after switching to Hexo
 date: 2017-12-27T16:56:07.553Z

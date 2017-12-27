@@ -14,7 +14,6 @@ collections:
       field: lang
       value: en
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "excerpt", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -31,7 +30,6 @@ collections:
       field: lang
       value: es
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "excerpt", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
