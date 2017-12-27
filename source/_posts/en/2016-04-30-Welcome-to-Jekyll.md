@@ -1,6 +1,5 @@
 ---
 title: Jekyll first post!
-excerpt: My first post. Built with Jekyll.
 lang: en
 date: 2016-04-29 03:28:59 -0700
 tags:
@@ -9,7 +8,7 @@ tags:
   - static site
 ---
 This is my first post in this Jekyll experiment.
-
+<!-- more -->
 It should be fun to experiment with and I'll see if I eventually decide to move to WordPress or not.
 
 ```ruby

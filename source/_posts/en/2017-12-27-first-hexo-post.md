@@ -1,6 +1,5 @@
 ---
 title: First Hexo Post!
-excerpt: First post after switching to Hexo
 date: 2017-12-27T16:56:07.553Z
 tags:
   - hexo
@@ -9,6 +8,8 @@ tags:
   - ssg
 lang: en
 ---
+First post after switching to Hexo.
+<!-- more -->
 ## The big switch
 
 I moved the site, and its blog, from being generated with [Jekyll](https://jekyllrb.com/) to now being generated with [Hexo](https://hexo.io/).

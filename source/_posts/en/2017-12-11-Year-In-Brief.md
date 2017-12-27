@@ -1,11 +1,13 @@
 ---
 title: Year In Brief
-excerpt: A wrap up for the year.
 lang: en
 date: 2017-12-11T18:39:30.356Z
 tags:
   - recap
 ---
+excerpt: A wrap up for the year.
+<!-- more -->
+
 ## Android
 
 * **Todoer**: No updates.

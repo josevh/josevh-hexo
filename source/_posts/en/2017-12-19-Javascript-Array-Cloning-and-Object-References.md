@@ -1,6 +1,5 @@
 ---
 title: Javascript Array Cloning and Object References
-excerpt: Copying, or cloning, an array of objects without the object references.
 lang: en
 date: 2017-12-19T15:23:02.408Z
 tags:
@@ -10,7 +9,7 @@ tags:
   - vue.js
 ---
 I recently ran into a problem with Javascript, arrays of objects, and those objects' references.
-
+<!-- more -->
 The following example uses [Vue.js](https://vuejs.org/).
 
 ## Context

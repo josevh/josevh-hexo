@@ -1,6 +1,5 @@
 ---
 title: 'Todoer: Android App'
-excerpt: My first android application released!
 lang: en
 date: 2017-02-25 13:30:00 -0700
 tags:
@@ -11,7 +10,7 @@ tags:
   - todo
 ---
 Last month I released my first Android app: **Todoer**.
-
+<!-- more -->
 <img src="/assets/img/upload/20170225-todoer-icon-min.png" alt="Todoer Icon" style="width: 100px; display: block; margin: 0 auto;" />
 
 My new year's resolution for 2016: release an Android app.

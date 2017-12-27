@@ -1,6 +1,5 @@
 ---
 title: PHP Inheritance and the __FILE__ Magic Constant
-excerpt: How to solve a problem in PHP relating to inheritance and magic constants.
 lang: en
 date: 2017-12-11T18:09:30.356Z
 tags:
@@ -9,10 +8,12 @@ tags:
   - web
   - inheritance
 ---
+How to solve a problem in PHP relating to inheritance and magic constants.
+<!-- more -->
+
 ### Context
 
 Recently I ran into a problem where I had the following classes:
-
 ```php
 # AbstractClass.php
 abstract class AbstractClass {

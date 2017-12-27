@@ -1,12 +1,11 @@
 ---
 title:  Mostly done
-excerpt: Site build updates.
 lang: en
 date: 2016-05-04 06:00:00 -0700
 tags:
 ---
 Styling this blog is coming along nicely.
-
+<!-- more -->
 So far I've enjoyed the flexibility that Jekyll provides.
 For my relatively simple design, it's proved easy to work with.
 

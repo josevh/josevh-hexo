@@ -1,6 +1,5 @@
 ---
 title: First taste of MEAN
-excerpt: Trying something new, the MEAN stack.
 lang: en
 date: 2016-05-30 06:00:00 -0700
 tags:
@@ -8,7 +7,7 @@ tags:
   - javascript
   - web
 ---
-Today, on Memorial Day, I took the opportunity to look into something I've been wanting to experiment with for a while now. After hearing about summer camps that will be made available in school for learning about the MEAN stack I decided to look into it myself.
+Today, on Memorial Day, I took the opportunity to look into something I've been wanting to experiment with for a while now, the MEAN stack.<!-- more -->After hearing about summer camps that will be made available in school for learning about the MEAN stack I decided to look into it myself.
 
 My experience in Javascript is of a novice and, fortunately, my reliance on jQuery has proven to be sufficient so far for my needs. However, I feel I have under-utilized Javascript so far and that there is considerable benefit to investing time in learning more about Node.js, Express, Angular and MongoDB.
 
