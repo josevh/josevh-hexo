@@ -26,7 +26,7 @@ I'll include a few screenshots in case I update it later and want to look back o
 
 
 <a class="thumbnail center-block" href="#" data-toggle="modal" data-target="#carousel-modal" >
-  <img src="jekyll-screenshot-thumb.png" alt="homepage" />
+  <img src="/assets/img/upload/jekyll-screenshot-thumb.png" alt="homepage" />
 </a>
 
 <style>
@@ -52,25 +52,25 @@ I'll include a few screenshots in case I update it later and want to look back o
         
           --><div class="carousel-inner" role="listbox"><!--
             --><div class="item active"><!--
-              --><img src="jekyll-screenshot.png" alt="homepage" /><!--
+              --><img src="/assets/img/upload/jekyll-screenshot.png" alt="homepage" /><!--
             --></div><!--
             --><div class="item"><!--
-              --><img src="jekyll-blog-screenshot.png" alt="blog" /><!--
+              --><img src="/assets/img/upload/jekyll-blog-screenshot.png" alt="blog" /><!--
             --></div><!--
           	--><div class="item"><!--
-              --><img src="jekyll-post-screenshot.png" alt="post" /><!--
+              --><img src="/assets/img/upload/jekyll-post-screenshot.png" alt="post" /><!--
             --></div><!--
         	  --><div class="item"><!--
-              --><img src="jekyll-projects-screenshot.png" alt="projects" /><!--
+              --><img src="/assets/img/upload/jekyll-projects-screenshot.png" alt="projects" /><!--
             --></div><!--
         	  --><div class="item"><!--
-              --><img src="jekyll-experience-screenshot.png" alt="experience" /><!--
+              --><img src="/assets/img/upload/jekyll-experience-screenshot.png" alt="experience" /><!--
             --></div><!--
         	  --><div class="item"><!--
-              --><img src="jekyll-skills-screenshot.png" alt="skills" /><!--
+              --><img src="/assets/img/upload/jekyll-skills-screenshot.png" alt="skills" /><!--
             --></div><!--
         	  --><div class="item"><!--
-              --><img src="jekyll-contact-screenshot.png" alt="contact" /><!--
+              --><img src="/assets/img/upload/jekyll-contact-screenshot.png" alt="contact" /><!--
             --></div><!--
           --></div><!--
           --><a class="left carousel-control" href="#carousel-post" role="button" data-slide="prev"><!--

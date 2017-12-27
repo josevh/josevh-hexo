@@ -57,4 +57,4 @@ Hopefully I have lots to write about going forward.
 
 <a href="https://play.google.com/store/apps/details?id=co.smallscreen.todoer" target="_blank"><img src="http://www.smallscreen.co/img/google-play-badge.png" height="50px" alt="Google Play Store: Todoer" /></a>
 
-<img src="20170225-todoer-screenshot-1-min.png" alt="Todoer Screenshot 1" style="width: 150px; display: inline-block;" />&nbsp;<img src="20170225-todoer-screenshot-2-min.png" alt="Todoer Screenshot 2" style="width: 150px; display: inline-block;" />
+<img src="/assets/img/upload/20170225-todoer-screenshot-1-min.png" alt="Todoer Screenshot 1" style="width: 150px; display: inline-block;" />&nbsp;<img src="/assets/img/upload/20170225-todoer-screenshot-2-min.png" alt="Todoer Screenshot 2" style="width: 150px; display: inline-block;" />
