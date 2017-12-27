@@ -5,7 +5,7 @@ excerpt: First post after switching to Hexo
 date: 2017-12-27T16:56:07.553Z
 tags:
   - hexo
-  - js
+  - javascript
   - node
   - ssg
 lang: en
