@@ -5,3 +5,10 @@
 * `npm uninstall hexo-generator-index --save`
 * `npm install hexo-generator-index-i18n --save`
 * `hexo server --draft --open -i 0.0.0.0 -p 8080`
+
+
+### Theme
+- Install
+  - `git submodule init`
+- Update
+  - `git submodule update`
