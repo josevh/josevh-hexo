@@ -1,4 +1,4 @@
-# [josevh.com](https://www.josevh.com)
+# [josevh.com](https://josevh.com)
 
 ### Install
 - `git clone --recursive git@github.com:josevh/josevh.github.io.git`
