@@ -42,8 +42,7 @@ var app = new Vue({
   methods: {
     addFiles: function (elem) {
       this.files = this.files.concat(Array.from(elem.target.files));
-      elem.target.value = '';
-      console.log(this.files);      
+      elem.target.value = '';      
     },
     removeFile: function (index) {
       this.files.splice(index, 1);
