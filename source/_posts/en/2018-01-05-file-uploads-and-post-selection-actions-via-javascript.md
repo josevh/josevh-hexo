@@ -24,7 +24,7 @@ Example of file input (using Vue.js):
 
 ```html
 <div id="app">
-    <div><input @change="addFiles" type="file" ref="input" multiple></div>
+    <div><input @change="addFiles" type="file" multiple></div>
     <hr>
     <ul>
         <li v-for="(file, index) in files">{{ file.name }} <a href="#" @click.prevent="removeFile(index)">&#215;</a></li>
