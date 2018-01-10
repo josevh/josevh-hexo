@@ -14,8 +14,7 @@ Read more about the port [here](/en/blog/2017/12/28/first-hexo-post/).
 ### Trivia
 Another simple app made while getting comfortable with [Vue.js](https://vuejs.org/).
 This app features the use of the [Open Trivia API](https://opentdb.com/) to provide the questions.
-The app also demos the use of Vue, ajax, and external APIs.
-Ajax is handled with jQuery, the layout uses Bootstrap 3.
+The app also demos the use of Vue, ajax, external APIs, and Bootstrap 3.
 - [Github](https://github.com/josevh/trivia-vuejs-demo)
 
 ### Blackjack
