@@ -2,6 +2,7 @@
 
 ### Install
 - `git clone --recursive git@github.com:josevh/josevh.github.io.git`
+- `npm install`
 
 ### Run
 - `hexo server --draft --open -i 0.0.0.0 -p 8080`

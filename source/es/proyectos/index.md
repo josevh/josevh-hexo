@@ -30,5 +30,5 @@ Módulo Zabbix escrito en C para acceder a los datos Neustar Web Performance Met
 - [Github](https://github.com/josevh/zbx-module-neustar-wpm)
 
 ### Daily Photo
-El tema de Wordpress se centró en la fotografía y es adecuado para las carteras.
+Un tema de Wordpress centrado en la fotografía.
 - [Github](https://github.com/josevh/daily-photo)
