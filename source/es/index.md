@@ -10,4 +10,4 @@ lang: es
 ### A donde voy
 <p class="text-justify">Mi objetivo es convertirme en un desarrollador de aplicaciones de Android establecido. Con eso en mente, hasta ahora he lanzado una aplicación de Android para comenzar a conocer el entorno. Mi plan es lanzar otra aplicación antes de fin de año para desarrollar más mis habilidades.
 
-En mi tiempo libre, también he comenzado a experimentar con el desarrollo de juegos de Unity usando C #. Espero poder encontrar una buena intersección de Android y desarrollo de juegos que uniré a mis intereses y objetivos.</p>
+En mi tiempo libre, también he comenzado a experimentar con el desarrollo de juegos de Unity usando C#. Espero poder encontrar una buena intersección de Android y desarrollo de juegos que uniré a mis intereses y objetivos.</p>
