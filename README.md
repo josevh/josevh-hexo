@@ -5,7 +5,7 @@
 - `npm install`
 
 ### Run
-- `hexo server --draft --open -i 0.0.0.0 -p 8080`
+- `hexo --draft server -i 0.0.0.0 -p 8080`
 
 ### Theme
 - **[Clarity](https://github.com/josevh/hexo-theme-clarity)**
