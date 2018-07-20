@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.josevh.com
+url: https://josevh.com
 root: /
 permalink: :lang/blog/:year/:month/:day/:title/
 permalink_defaults:
