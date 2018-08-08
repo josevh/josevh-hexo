@@ -27,17 +27,10 @@ September 2014 - February 2015
 - Wrote Windows application for Store Support team that partially automated ticket creation.
 - **LANGUAGES USED:** `BATCH, AUTOIT`
 
-### Teller <small>Citibank</small>
-June 2013 - September 2014
-- Exceeded customer service expectations based on customer service satisfaction surveys.
-- Lead the implementation of the new inventory management procedures.
-
 ### Desktop Technician <small>Direct Wireless</small>
 December 2010 - June 2013
 - Sole technician and responsible for computer and phone repair/diagnostic.
 - Maintained in-store computers (internet-cafe) and implemented own system management method to reduce maintenance requirement.
-
-
 
 ## Education
 
