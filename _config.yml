@@ -49,7 +49,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -80,7 +80,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: clarity
+#theme: clarity
+theme: pillars
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -91,3 +92,6 @@ theme_config:
   navbar_brand: Jose V Herrera
   favicon: /favicon.png
   google_analytics: 'UA-77365099-1'
+
+
+pillars_brand_img_path: '/contact/index/avatar-me.jpg'

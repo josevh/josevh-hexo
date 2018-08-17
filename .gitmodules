@@ -1,3 +1,6 @@
 [submodule "themes/clarity"]
 	path = themes/clarity
 	url = https://github.com/josevh/hexo-theme-clarity.git
+[submodule "themes/pillars"]
+	path = themes/pillars
+	url = git@github.com:josevh/hexo-theme-pillars.git

@@ -1,9 +1,7 @@
 ---
-title: I am a web and application developer.
 lang: en
-layout: home
+layout: index
 ---
-<br>
 ### What I do
 <p class="text-justify">I am currently part of the awesome web development team at Brighton Inc. There, I focus my efforts on both frontend and backend development. I am strengthening my competencies in HTML/CSS/JS as well as PHP and MySQL development. I work with frontend technologies such as Vue.js as well as develop the backend APIs that drive them.</p>
 
